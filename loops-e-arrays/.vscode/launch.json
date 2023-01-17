@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex4ParEImpar",
+            "request": "launch",
+            "mainClass": "Ex4ParEImpar",
+            "projectName": "loops-e-arrays_86eb0f0b"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex2_Nota",
             "request": "launch",
             "mainClass": "Ex2_Nota",
@@ -16,7 +23,6 @@
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
-        }        
-        
+        }
     ]
-}11
+}
