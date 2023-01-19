@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "Ex6_Fatorial",
+            "projectName": "loops-e-arrays_86eb0f0b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6",
+            "request": "launch",
+            "mainClass": "Ex6",
+            "projectName": "loops-e-arrays_86eb0f0b"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex5_Tabuada",
             "request": "launch",
             "mainClass": "Ex5_Tabuada",
