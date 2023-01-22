@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex2_Consoantes",
+            "request": "launch",
+            "mainClass": "Ex2_Consoantes",
+            "projectName": "arrays_a6c890a4"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
